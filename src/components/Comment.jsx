@@ -6,7 +6,7 @@ export function Comment() {
   return (
     <div className={styles.comment}>
       <Avatar
-        src={"https://github.com/diego3g.png"}
+        src={"https://github.com/andersonmenezesm.png"}
         hasBorder={false}
       />
 
@@ -14,7 +14,7 @@ export function Comment() {
         <div className={styles.commentContent}>
           <header>
             <div className={styles.authorAndTime}>
-              <strong>Diego Fernandes</strong>
+              <strong>Anderson Menezes</strong>
               <time title="26 de Outubro às 18:30h" dateTime="2023-10-26 18:30:00" >Publicado há 1h</time>
             </div>
 
